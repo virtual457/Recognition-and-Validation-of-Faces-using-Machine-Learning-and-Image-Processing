@@ -15,10 +15,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">🎯 Face Recognition & Validation System</h3>
+  <h3 align="center">🎯 Face Recognition & Validation System - ADVANCED ML PROJECT ⭐</h3>
 
   <p align="center">
-    Advanced Machine Learning Solution for Facial Recognition and Validation using Convolutional Neural Networks with 88.2% accuracy on validation set.
+    <strong>🎯 PORTFOLIO SHOWCASE:</strong> Advanced Machine Learning Solution for Facial Recognition and Validation using Convolutional Neural Networks with 88.2% accuracy on validation set.
+    <br/>
+    <em>Last Updated: 2025-01-19 | Advanced Machine Learning Project</em>
     <br />
     <a href="https://github.com/virtual457/Recognition-and-Validation-of-Faces-using-Machine-Learning-and-Image-Processing"><strong>Explore the docs »</strong></a>
     <br />
